@@ -1,0 +1,1 @@
+191 labels mapping between dataset objects365 and open-images V5 (kaggle 2019). 'mouse' was removed. In objects365 , this means computer mouse. In open-image, this means annimal mouse.
